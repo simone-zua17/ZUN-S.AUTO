@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
@@ -161,7 +161,7 @@
 
     <section id="ceo" class="ceo">
         <h2>Conheça o CEO</h2>
-        <img src="ceo.jpeg" alt="Foto do CEO">
+        <img src="CEO.jpeg" alt="Foto do CEO">
         <p>Simone Zua, fundador e CEO da Zun’s Auto, é apaixonado por inovação automotiva e está comprometido em trazer ao mercado veículos modernos e acessíveis para todos.</p>
     </section>
 
